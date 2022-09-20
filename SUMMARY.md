@@ -1,7 +1,4 @@
 # Table of contents
 
 * [TIL](README.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
+* [22.09.20](22.09.20.md)
