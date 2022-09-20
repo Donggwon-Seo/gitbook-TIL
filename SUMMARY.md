@@ -1,8 +1,7 @@
 # Table of contents
 
-* [About TIL](README.md)
+* [TIL](README.md)
 
-## Daily-Log
+## Group 1
 
-* [Page 2](daily-log/page-2.md)
-* [Page 1](daily-log/page-1.md)
+* [Page 1](group-1/page-1.md)
