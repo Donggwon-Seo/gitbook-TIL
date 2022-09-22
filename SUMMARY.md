@@ -1,5 +1,9 @@
 # Table of contents
 
 * [TIL](README.md)
-  * [22.09.20](til/22.09.20.md)
-  * [22.09.21](readme/22.09.21.md)
+
+## 👨💻 Daily-Book
+
+* [22.09.20](daily-book/22.09.20.md)
+* [22.09.21](daily-book/22.09.21.md)
+* [22.09.21](daily-book/22.09.21-1.md)
